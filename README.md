@@ -7,6 +7,12 @@ poetry add "package name"
 ```
 
 To run one of the including labs:
-```poetry install```
-```poetry shell```
-```python main.py```
+```
+poetry install
+```
+```
+poetry shell
+```
+```
+python main.py
+```
