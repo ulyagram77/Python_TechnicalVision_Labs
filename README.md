@@ -6,7 +6,7 @@ To add packages run in terminal:
 poetry add "package name"
 ```
 
-To run one of the including labs:
+To run one of the including labs in console such as file.py:
 ```
 poetry install
 ```
@@ -14,5 +14,8 @@ poetry install
 poetry shell
 ```
 ```
-python main.py
+python "lab_filename".py
 ```
+
+To run one of the including labs in jupiter:
+Just start it in jupiter notebook extention in VS-CODE or etc. =)
