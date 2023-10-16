@@ -9,6 +9,7 @@ readme = "README.md"
 python = "^3.11"
 matplotlib = "^3.8.0"
 opencv-python = "^4.8.1.78"
+ipykernel = "^6.25.2"
 
 
 [build-system]
