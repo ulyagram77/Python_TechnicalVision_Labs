@@ -18,4 +18,4 @@ python "lab_filename".py
 ```
 
 To run one of the including labs in jupiter:
-Just start it in jupiter notebook extention in VS-CODE or etc. =)
+> Just start it in jupiter notebook extention in VS-CODE or etc. =)
