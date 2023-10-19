@@ -23,4 +23,8 @@ python "lab_filename".py
 ```
 
 To run one of the including `labs in jupiter`:
+```
+poetry install
+```
+
 > Just start it in jupiter notebook extention in VS-CODE or etc. =)
