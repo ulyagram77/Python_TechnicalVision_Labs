@@ -27,4 +27,14 @@ To run one of the including `labs in jupiter`:
 poetry install
 ```
 
+Run to the `lab` directory:
+```
+cd lab1
+```
+
+Run shell:
+```
+poetry shell
+```
+
 > Just start it in jupiter notebook extention in VS-CODE or etc. =)
