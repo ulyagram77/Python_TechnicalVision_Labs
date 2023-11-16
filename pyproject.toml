@@ -5,10 +5,12 @@ description = ""
 authors = ["whitegolyb <kirillulianow@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = ">=3.11,<3.12"
 ipykernel = "^6.26.0"
 opencv-python = "^4.8.1.78"
 matplotlib = "^3.8.1"
+tensorflow = "^2.15.0"
+scipy = "^1.11.3"
 
 
 [build-system]
