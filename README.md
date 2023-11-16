@@ -35,13 +35,19 @@ poetry install
 ```
 
 Run to the `lab` directory:
+<<<<<<< HEAD
 
+=======
+>>>>>>> 38f05fa2953e15c11d9965f1066adf4750af9809
 ```
 cd lab1
 ```
 
 Run shell:
+<<<<<<< HEAD
 
+=======
+>>>>>>> 38f05fa2953e15c11d9965f1066adf4750af9809
 ```
 poetry shell
 ```
