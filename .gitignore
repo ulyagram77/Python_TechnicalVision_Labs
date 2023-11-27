@@ -20,6 +20,11 @@ parts/
 sdist/
 test/
 train/
+raw_dataset/
+cutted_dataset/
+cutted_dataset_hog/
+finded_eyes_hog/
+finded_smiles/
 var/
 wheels/
 share/python-wheels/
